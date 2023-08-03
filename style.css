@@ -1,0 +1,111 @@
+body {
+    background: rgb(6, 6, 6);
+    color: rgba(255, 255, 255, 0.687);
+    font-family: fantasy;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background: black;
+    
+    
+  }
+  .navbar-brand {
+    font-size: xxx-large;
+    font-variant: small-caps;
+
+  }
+
+  .about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 300px;
+    width: 100%;
+    margin: 0;
+    font-variant: small-caps;
+   
+   
+    
+
+  }
+  .background-img{
+    z-index:-1;
+    position: fixed;
+  }
+  
+  .images {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .about-img {
+   display: flex;
+   justify-content: ceter;
+   align-items: center;
+   padding-top:20px ;
+   margin: 0;
+   width: 100%;
+   opacity: .6;
+
+  }
+  .services {
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    font-variant: small-caps;
+    font-size: 65px;
+    padding-bottom: 100px;
+  }
+
+  .abouttext {
+    
+    display: flex;
+    justify-content: center;
+    padding-bottom: 300px;
+    font-variant: small-caps;
+    font-size: 40px;
+  }
+
+  .footinfo {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 50px;
+    align-items: center;
+    
+    
+  }
+  .galleria {
+     padding-top: 200px;
+  }
+
+  .locationmap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    
+  }
+ 
+    
+
+
+   #logout-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.897);
+    border: solid whitesmoke 4px;
+    background-color: rgb(6, 1, 1);
+    margin-top: 400px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    
+   
+  }
+
+ 
